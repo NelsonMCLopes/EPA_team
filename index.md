@@ -14,4 +14,3 @@ Our work focuses on:
 - Long discharge plasmas for AWAKE  
 - Gas cell development for LWFA  
 - Plasma diagnostics and characterization
-
