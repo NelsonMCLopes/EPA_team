@@ -15,4 +15,3 @@ Our work focuses on:
 - Gas cell development for LWFA  
 - Plasma diagnostics and characterization
 
-
