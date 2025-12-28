@@ -1,3 +1,7 @@
+--- 
+autogen: true 
+---
+
 ---
 layout: profiles
 permalink: /people/
