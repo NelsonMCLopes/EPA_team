@@ -1,3 +1,7 @@
+--- 
+autogen: true 
+---
+
 ---
 layout: default
 permalink: /blog/
