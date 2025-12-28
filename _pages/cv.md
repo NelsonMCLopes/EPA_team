@@ -1,3 +1,7 @@
+--- 
+autogen: true 
+---
+
 ---
 layout: cv
 permalink: /cv/
