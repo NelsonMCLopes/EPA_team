@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: about
 title: Experimental Plasma Acceleration (EPA)
-subtitle: Plasma sources for advanced accelerators
+subtitle: Instituto de Plasmas e Fusão Nuclear (IPFN) - Instituto Superior Técnico 
 ---
 
 We are a small experimental plasma physics group based in Lisbon, working on plasma-based particle acceleration and advanced plasma sources.
