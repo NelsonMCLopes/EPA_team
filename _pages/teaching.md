@@ -1,3 +1,7 @@
+--- 
+autogen: true 
+---
+
 ---
 layout: page
 permalink: /teaching/
