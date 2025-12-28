@@ -2,6 +2,8 @@
 layout: page
 title: Our Team
 permalink: /team/
+nav: true
+nav_order: 2
 ---
 
 ### Nelson C. Lopes — PI
