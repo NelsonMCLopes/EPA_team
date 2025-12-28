@@ -1,3 +1,7 @@
+--- 
+autogen: true 
+---
+
 ---
 layout: book-shelf
 title: bookshelf
