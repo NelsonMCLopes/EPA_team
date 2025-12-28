@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/cv/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/projects/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
