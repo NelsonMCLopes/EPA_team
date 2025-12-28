@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-experimental-plasma-acceleration-epa",
+    title: "Experimental Plasma Acceleration (EPA)",
     section: "Navigation",
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "nav-our-team",
+  },{id: "nav-experimental-plasma-acceleration-epa",
+          title: "Experimental Plasma Acceleration (EPA)",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/";
+          },
+        },{id: "nav-our-team",
           title: "Our Team",
           description: "",
           section: "Navigation",
