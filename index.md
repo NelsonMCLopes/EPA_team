@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: Experimental Plasma Acceleration (EPA)
 subtitle: Instituto de Plasmas e Fusão Nuclear (IPFN) - Instituto Superior Técnico 
 ---
